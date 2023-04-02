@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3967827275251873270
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CropsWindSigns
+  m_Shader: {fileID: -6465566751694194690, guid: 2b41f3fc7af32694d9137754075b9d98,
+    type: 3}
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 72781922ea9efe94ba8e14d92504bb7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_4d6b3f4de3624b3eb0354b381ddedacc_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_305dd0080be343d3a94734461f4d27a9_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 2800000, guid: f9720b91e2a24564e97ed963add866c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _Bend: 0.24
+    - _BendAmount: -32
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 0
+    - _DstBlend: 0
+    - _Height: 1.97
+    - _JitterFrequency: 13.25
+    - _JitterStrength: 2.32
+    - _MaxBendAmount: 84.3
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _RevealSign: 0.275
+    - _SignScale: 35.6
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WindSpeed: 4.6
+    - _WindStrength: 0.655
+    - _WindStrengthVariation: 14.01
+    - _WindVariationFrequency: 0.28
+    - _WindVariationSpeed: 0.1
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    - _curveDown: 0.41
+    - _curveDownSharpness: 1.14
+    - _curveDownStrength: -0.05
+    - _curviness: 0.34
+    - _stretch: 0.47
+    m_Colors:
+    - _SignOffset: {r: 0.4, g: -0.01, b: 0, a: 0}
+    - _WindDirection: {r: 0.41, g: 0, b: 0.64, a: 0}
+    - _forward: {r: -0.31, g: 0.22, b: 2, a: 0}
+    - _windscroll: {r: 0, g: 3, b: 0, a: 0}
+  m_BuildTextureStacks: []
