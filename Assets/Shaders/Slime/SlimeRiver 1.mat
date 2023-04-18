@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlimeRiver 1
+  m_Shader: {fileID: -6465566751694194690, guid: b1c9d20f591e3f04b816d4cd6d9b0d71,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_1675b8e426354752aa61fe2e06f2e3b6_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e7792b22f94ee6f4f894c46680944039, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7797ada050524d1a89b8174b9fd51133_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 8d2e07731b1c16d41bcd81ca903ed638, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_84117697d6a64022aee8391e4b54aea7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 1b3a2a62e26bcd345a8ba4c3e68b502a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_aba9ece0e11943b6b28d6cf326c3317f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7c6e43b54ce0c7c4fb44b069cb247788, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b9cfa89df8194533b5c8edc4bc562fad_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 825029d57e1688f449a1f3a37b94d70f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c006b6273817415c902710c1931e933a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 629739eac3f5d1443b760097dd31b2aa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c848a4a9948049d69b2cf905535aaaaf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 629739eac3f5d1443b760097dd31b2aa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e87dbae28a9b4692a7472ec00ef36658_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4d7339f475894454ab9a9a8fb636c7bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BubbleMovementRatio: 0.91
+    - _BubbleNormalStrength: 1.18
+    - _DisplacementStrength: 1
+    - _Divide_by: 0.47
+    - _Float: 1
+    - _LocalDisplacementScale: 3.84
+    - _LocalDisplacementSpeed: 1.15
+    - _Offset: -0.8
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SurfaceNoise: 2.72
+    - _SurfaceNoiseScale: 2.7
+    - _SurfaceNoiseSpeed: 0.97
+    - _SurfaceNoiseStrength: 1
+    - _smoothness: 0.56
+    m_Colors:
+    - _BaseColor: {r: 0.1116665, g: 0.56765074, b: 0, a: 0}
+    - _BubblesEmission: {r: 3.6852188, g: 18.523073, b: 0, a: 0}
+    - _Emission: {r: 0, g: 1, b: 0.052033424, a: 0}
+    - _Flow: {r: 0.06, g: 0.51, b: 0, a: 0}
+    - _LocalDisplacement: {r: 0, g: 0.7, b: 0.32, a: 0}
+    - _LocalDisplacementStrength: {r: 0, g: 0.51, b: 0.4, a: 0}
+    - _ScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _SplurColor: {r: 0.3584906, g: 0.22768678, b: 0, a: 0}
+    - _SplurEmission: {r: 1.1843138, g: 2, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &9096251761093512714
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
