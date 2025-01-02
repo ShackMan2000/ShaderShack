@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5f843b37c74552144a9acde5dbf4d4e5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RingTexture: {fileID: 2800000, guid: 9d646a29872f7aa49a49f3024d25d652, type: 3}
+  - _RingWobbleTex: {fileID: 2800000, guid: a7ec22d187c576b439e6c45f4cdf1080, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

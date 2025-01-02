@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: C Ring Inner
+  m_Shader: {fileID: 4800000, guid: fa9d74ddc3e7be548a43629f3c7383ac, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _RECEIVE_SHADOWS_OFF
+  m_InvalidKeywords:
+  - _RECEIVESHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _OverDriveTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RingTexture:
+        m_Texture: {fileID: 2800000, guid: 03a037417cff2a64186ab02e54e5d1fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RingTexture1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ActiveParticlesCount: -0.6
+    - _AlphaCutoff: 0.5
+    - _AlphaEnd: 1
+    - _AlphaMid: 0.962
+    - _AlphaStart: 0
+    - _EdgeAlphaBoost: 0.48
+    - _EdgeAlphaBoostOverDrivel: 0.952
+    - _EdgeAlphaBoostPower: 13
+    - _FixedOffsetRotationParticleZone: 0.25
+    - _Float0: 0.75
+    - _Float1: 0.06
+    - _Fusion: 0
+    - _MaxVisibility: 3.3
+    - _OverDrive: 0
+    - _ParticleZoneEdgeBoost: 0.06
+    - _ParticleZoneVisibilityPower: 1.46
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 0
+    - _RemapInnerCenter: 0
+    - _RemapMiddlePart: 0.516
+    - _RemapOuterEdge: 1
+    - _Reveal: 0.46
+    - _RingValueEnd: 1
+    - _RingValueMid: 0.868
+    - _RingValueStart: 0
+    - _RotationParticleZone: 0.4056312
+    - _RotationSpeed: -0.36
+    - _Scale: 9.76
+    - _ScaleInnerCenter: 0
+    - _ScaleInnerCenter1: 0
+    - _ScaleMainTex: 1
+    - _ScaleMiddlePart: 1.75
+    - _ScaleMiddlePart1: 1.83
+    - _ScaleOuterEdge: 1.73
+    - _ScaleOuterEdge1: 1.06
+    - _StartVisibility: 0.87
+    - _VerticalOffsetStrengthAtOneDistance: 0.18
+    - _VisibilityAlphaBoost: 0.413
+    - _VisibilityAlphaBoostOverDrivel: 0
+    - _VisibilityAlphaBoostPower: 8.15
+    - _VisibilityPower: 3.74
+    - _VisibilityPowerp: 3.88
+    - _VisibilityPowerp1: 0.04
+    - _WaveHeighWorld: 0.64
+    - _WaveHeightWorld: 0.38
+    - _Waves: 5
+    - _WavesRotationSpeed: 1
+    - _WavesRotationsPerSec: 0.1
+    m_Colors:
+    - _AlphaRemap: {r: 0, g: 1, b: 0, a: 0}
+    - _BrightColor: {r: 0, g: 2.8176494, b: 3.7450998, a: 1}
+    - _BrightColorOverDrive: {r: 19.079245, g: 0, b: 0.249577, a: 0}
+    - _DarkColor: {r: 0, g: 0.25166193, b: 0.9019608, a: 1}
+    - _DarkColorOverdrive: {r: 353.56992, g: 0, b: 2.1047432, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OverDriveColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

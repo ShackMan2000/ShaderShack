@@ -1,14 +1,10 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.PlayerLoop;
-using UnityEngine.Serialization;
+
 
 public class SuckMyMesh : MonoBehaviour
 {
-
     float timePassed;
 
     [SerializeField] float variationOffset;

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fa9d74ddc3e7be548a43629f3c7383ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RingTexture: {fileID: 2800000, guid: 4c5ab5538e1fe8d47be5e7149571fee8, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

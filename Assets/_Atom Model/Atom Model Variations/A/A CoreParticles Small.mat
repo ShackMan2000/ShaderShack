@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: A CoreParticles Small
+  m_Shader: {fileID: 4800000, guid: 4589dc881fde6014cb768bd4871394f0, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Collection: 0
+    - _CollectionTime: 0
+    - _ColorBoostSuck: 0.77
+    - _EnvironmentReflections: 1
+    - _FinishColorChangeEarly: 0.7
+    - _Float1: 2.03
+    - _Float2: 1
+    - _Float3: 5
+    - _Float4: 0
+    - _Float5: 0
+    - _Float6: 0
+    - _FresnelInOutPower: 0.01
+    - _FresnelInside: 0
+    - _FresnelOutside: 0
+    - _FresnelPower: 0.1
+    - _FresnelScale: 1
+    - _MaxStretch: 16.4
+    - _MinAlpha: 1
+    - _Offset: 1.69
+    - _OffsetWaveSpeed: 4.25
+    - _ParticleScale: 0.037
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RandomeOne: 0
+    - _ReceiveShadows: 1
+    - _RotationSpeed: 5.7
+    - _SpecularHighlights: 1
+    - _StartCollectionAt: 0.45
+    - _UseFresnel: 0
+    - _WaveSpeed: 4.7
+    - _WaveStrengthMaster: 0.248
+    - _WobbleScale: 0.4
+    - _WobbleShowsLightEnd: 0
+    - _WobbleShowsLightStart: 0
+    - _WobbleSpeed: 0.95
+    - _WobbleStrength: 2
+    m_Colors:
+    - _CollectionPoint: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 0.8431952, g: 0, b: 0.12360981, a: 0}
+    - _MainColor: {r: 9.425533, g: 0, b: 6.521309, a: 0}
+    - _OffsetMinMax: {r: -0.91, g: 0.89, b: 0, a: 0}
+    - _PositionVariancen: {r: 0.15, g: 0, b: 0, a: 0}
+    - _RotationAxis: {r: 1, g: 1, b: 1, a: 0}
+    - _SpawnPoint: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector0: {r: 1, g: 1, b: 1, a: 0}
+    - _Vector1: {r: 1.08, g: 2.12, b: 7.52, a: 0}
+    - _XRotationRange: {r: -10.13, g: 5.23, b: 0, a: 0}
+    - _YRotationRange: {r: 0.3, g: 0, b: 0, a: 0}
+    - _YRotationRange1: {r: 0.47, g: 0, b: 0, a: 0}
+    - _ZRotationRange: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
